@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (лаба 2.2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  transformer.cpp
+C:\Users\bater\Desktop\Прога\лаба 4.1\лаба 2.2\melee.h(21,40): warning C4042: mc: имеет недопустимый класс хранения
+C:\Users\bater\Desktop\Прога\лаба 4.1\лаба 2.2\weapon.h(22,41): warning C4042: wc: имеет недопустимый класс хранения
+  лаба 4.1.cpp
+C:\Users\bater\Desktop\Прога\лаба 4.1\лаба 2.2\melee.h(21,40): warning C4042: mc: имеет недопустимый класс хранения
+C:\Users\bater\Desktop\Прога\лаба 4.1\лаба 2.2\weapon.h(22,41): warning C4042: wc: имеет недопустимый класс хранения
+C:\Users\bater\Desktop\Прога\лаба 4.1\лаба 2.2\лаба 4.1.cpp(77,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "overload_plusplus"
+C:\Users\bater\Desktop\Прога\лаба 4.1\лаба 2.2\лаба 4.1.cpp(80,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "overload_plusplus"
+C:\Users\bater\Desktop\Прога\лаба 4.1\лаба 2.2\лаба 4.1.cpp(88,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "overload_plus"
+  Создание кода...
+  лаба 2.2.vcxproj -> C:\Users\bater\Desktop\Прога\лаба 4.1\x64\Debug\лаба 4.1.exe
